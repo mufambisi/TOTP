@@ -1,3 +1,3 @@
 # TOTP
 
-Bash script to generate TOTP using secret.
+Bash script to generate Time based OTP. Uses HMAC SHA1. Uses step 30 with timestamp since Linux epoch.
